@@ -1,4 +1,6 @@
-# Slim TextMate/Sublime Bundle [![endorse](http://api.coderwall.com/fredwu/endorsecount.png)](http://coderwall.com/fredwu)
+# Slim TextMate/Sublime Bundle
+
+## Looking for maintainer(s)! See [this issue](https://github.com/slim-template/ruby-slim.tmbundle/issues/73).
 
 ## Description
 
@@ -17,7 +19,7 @@ This is the [Textmate](http://macromates.com/)/[Sublime Text](http://www.sublime
     cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
     git clone git://github.com/slim-template/ruby-slim.tmbundle.git Ruby-Slim.tmbundle
 
-### Sublime Text 2
+### Sublime Text 2 & 3
 
 Please install it via [Package Control](http://wbond.net/sublime_packages/package_control).
 
